@@ -1,0 +1,72 @@
+
+body {
+  	margin: 0;
+  	line-height: normal;
+}
+
+
+:root {
+  	
+  	/* fonts */
+  	--small-body: 'FK Grotesk Neue Trial';
+  	
+  	/* font sizes */
+  	--small-body-size: 0.75rem;
+  	--body-size: 0.875rem;
+  	--large-body-size: 1rem;
+  	--h1-size: 1.5rem;
+  	
+  	/* Colors */
+  	--colours-background-01: #f4f5f7;
+  	--colours-gray-01: #222;
+  	--colours-gray-04: #e5e5e5;
+  	--colours-white-01: #fff;
+  	--colours-label-02-c: #f7f5ff;
+  	--colours-label-02-b: #a78ef9;
+  	--colours-label-02-a: #4f1df2;
+  	--colours-label-03-a: #063bec;
+  	--colours-label-03-b: rgba(6, 59, 236, 0.5);
+  	--colours-gray-03: #ababab;
+  	--colours-label-04-c: #fff5e9;
+  	--colours-label-04-a: #ff3f10;
+  	--colours-label-04-b: rgba(255, 63, 16, 0.5);
+  	--colours-label-05-c: #f2fff2;
+  	--colours-label-05-a: #007c0c;
+  	--colours-label-05-b: rgba(0, 124, 12, 0.5);
+  	--colours-label-03-c: #f5faff;
+  	
+  	/* Spacing */
+  	--corner-04: 1.25rem;
+  	--corner-03: 0.875rem;
+  	--corner-01: 0.5rem;
+  	--corner-02: 0.75rem;
+  	
+  	/* Gaps */
+  	--gap-xl: 1.25rem;
+  	--gap-5xs: 0.5rem;
+  	--gap-9xs: 0.25rem;
+  	--gap-7xs: 0.375rem;
+  	--gap-3xs: 0.625rem;
+  	
+  	/* Paddings */
+  	--padding-5xs: 0.5rem;
+  	--padding-xl: 1.25rem;
+  	--padding-9xs: 0.25rem;
+  	--padding-21xl: 2.5rem;
+  	--padding-12xs: 0.062rem;
+  	--padding-7xs: 0.375rem;
+  	--padding-xs: 0.75rem;
+  	--padding-3xs: 0.625rem;
+  	--padding-11xs: 0.125rem;
+  	--padding-smi: 0.812rem;
+  	
+  	/* Border radiuses */
+  	--br-xl: 20px;
+  	--br-sm: 14px;
+  	--br-5xs: 8px;
+  	--br-xs: 12px;
+  	
+  	/* Effects */
+  	--shadow-buttons: 0px 2px 2px 4px rgba(34, 34, 34, 0.06);
+  	--shadow-profile: 0px 1px 2px 2px rgba(34, 34, 34, 0.06);
+}
